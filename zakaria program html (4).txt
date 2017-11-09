@@ -1,0 +1,172 @@
+﻿
+<html>
+    
+    <head>
+        <title> מערכת </title>
+       <style>
+        table
+           {
+               /*propety:value;*/
+               
+               width: 80% ;
+           }
+           
+               table,td
+           {
+               border : 2px dashed black ;
+               border-collapse: collapse ;
+               color: red;
+               background-color: aqua;
+               padding: 25px;
+               text-align: :left;
+           }
+        
+        </style>
+    </head>
+    <body>
+        <table style ="width: 100%">
+            
+            <caption> zakaria's program </caption>
+            
+        <tr>
+            <td> שבת   </td>\
+             <td> שישי </td>
+             <td> חמישי </td>
+             <td> רביעי </td>
+             <td> שלישי </td>
+             <td> שני  </td>
+            <td> ראשון   </td>
+            <td>  שעה  </td>
+            </tr>
+            <tr>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 08:00 </td>
+            </tr>
+            <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 09:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 10:00 </td>
+            </tr>
+         <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 11:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 12:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 13:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 14:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 15:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 16:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 17:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 18:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 19:00 </td>
+            </tr>
+             <tr>
+             <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> </td>
+                 <td> 20:00 </td>
+            </tr>
+        </table>
+        
